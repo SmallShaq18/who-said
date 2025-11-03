@@ -101,7 +101,7 @@ const Game = () => {
     setLoading(true);
     try {
       const res = await fetch(
-        `http://localhost:5000/api/quote${mode ? `?mode=${mode}` : ""}`
+        `https://who-said.onrender.com/api/quote${mode ? `?mode=${mode}` : ""}`
       );
       const data = await res.json();
 

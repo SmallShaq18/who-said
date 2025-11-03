@@ -17,7 +17,7 @@ function Home() {
   const getRandomQuote = async () => {
     try {
       setLoading(true);
-      const res = await fetch("http://localhost:5000/api/quote");
+      const res = await fetch("https://who-said.onrender.com/api/quote");
       
       const data = await res.json();
       //console.log("data", data);
