@@ -22,6 +22,9 @@ let localQuotes = [];
   }
 })();
 
+app.get("/ping", (req, res) => {
+  res.send("pong");
+});
 
 /*app.get("/api/quote", async (req, res) => {
   // 50-50 chance between API or local JSON
