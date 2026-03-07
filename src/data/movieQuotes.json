@@ -1,0 +1,377 @@
+[
+  {
+    "quote": "May the Force be with you.",
+    "movie": "Star Wars",
+    "character": "Han Solo"
+  },
+  {
+    "quote": "I'm going to make him an offer he can't refuse.",
+    "movie": "The Godfather",
+    "character": "Vito Corleone"
+  },
+  {
+    "quote": "You talking to me?",
+    "movie": "Taxi Driver",
+    "character": "Travis Bickle"
+  },
+  {
+    "quote": "Here's looking at you, kid.",
+    "movie": "Casablanca",
+    "character": "Rick Blaine"
+  },
+  {
+    "quote": "I'll be back.",
+    "movie": "The Terminator",
+    "character": "The Terminator"
+  },
+  {
+    "quote": "Why so serious?",
+    "movie": "The Dark Knight",
+    "character": "The Joker"
+  },
+  {
+    "quote": "Life finds a way.",
+    "movie": "Jurassic Park",
+    "character": "Dr. Ian Malcolm"
+  },
+  {
+    "quote": "Houston, we have a problem.",
+    "movie": "Apollo 13",
+    "character": "Jim Lovell"
+  },
+  {
+    "quote": "Say 'hello' to my little friend!",
+    "movie": "Scarface",
+    "character": "Tony Montana"
+  },
+  {
+    "quote": "You can't handle the truth!",
+    "movie": "A Few Good Men",
+    "character": "Col. Nathan R. Jessup"
+  },
+  {
+    "quote": "Keep your friends close, but your enemies closer.",
+    "movie": "The Godfather Part II",
+    "character": "Michael Corleone"
+  },
+  {
+    "quote": "To infinity and beyond!",
+    "movie": "Toy Story",
+    "character": "Buzz Lightyear"
+  },
+  {
+    "quote": "Just keep swimming.",
+    "movie": "Finding Nemo",
+    "character": "Dory"
+  },
+  {
+    "quote": "There's no place like home.",
+    "movie": "The Wizard of Oz",
+    "character": "Dorothy"
+  },
+  {
+    "quote": "I'm king of the world!",
+    "movie": "Titanic",
+    "character": "Jack Dawson"
+  },
+  {
+    "quote": "It's alive! It's alive!",
+    "movie": "Frankenstein",
+    "character": "Henry Frankenstein"
+  },
+  {
+    "quote": "Elementary, my dear Watson.",
+    "movie": "The Adventures of Sherlock Holmes",
+    "character": "Sherlock Holmes"
+  },
+  {
+    "quote": "I feel the need—the need for speed!",
+    "movie": "Top Gun",
+    "character": "Maverick"
+  },
+  {
+    "quote": "Here's Johnny!",
+    "movie": "The Shining",
+    "character": "Jack Torrance"
+  },
+  {
+    "quote": "Hasta la vista, baby.",
+    "movie": "Terminator 2: Judgment Day",
+    "character": "The Terminator"
+  },
+  {
+    "quote": "You shall not pass!",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "character": "Gandalf"
+  },
+  {
+    "quote": "With great power comes great responsibility.",
+    "movie": "Spider-Man",
+    "character": "Uncle Ben"
+  },
+  {
+    "quote": "Here's to the ones who dream, foolish as they may seem.",
+    "movie": "La La Land",
+    "character": "Mia Dolan"
+  },
+  {
+    "quote": "Why do we fall, Bruce? So we can learn to pick ourselves up.",
+    "movie": "Batman Begins",
+    "character": "Alfred Pennyworth"
+  },
+  {
+    "quote": "After all, tomorrow is another day!",
+    "movie": "Gone with the Wind",
+    "character": "Scarlett O'Hara"
+  },
+  {
+    "quote": "Carpe diem. Seize the day, boys.",
+    "movie": "Dead Poets Society",
+    "character": "John Keating"
+  },
+  {
+    "quote": "They may take our lives, but they'll never take our freedom!",
+    "movie": "Braveheart",
+    "character": "William Wallace"
+  },
+  {
+    "quote": "I'm having an old friend for dinner.",
+    "movie": "The Silence of the Lambs",
+    "character": "Hannibal Lecter"
+  },
+  {
+    "quote": "Roads? Where we're going, we don't need roads.",
+    "movie": "Back to the Future",
+    "character": "Dr. Emmett Brown"
+  },
+  {
+    "quote": "You is kind. You is smart. You is important.",
+    "movie": "The Help",
+    "character": "Aibileen Clark"
+  },
+  {
+    "quote": "Hope is a good thing, maybe the best of things.",
+    "movie": "The Shawshank Redemption",
+    "character": "Andy Dufresne"
+  },
+  {
+    "quote": "It's not who I am underneath, but what I do that defines me.",
+    "movie": "Batman Begins",
+    "character": "Bruce Wayne"
+  },
+  {
+    "quote": "Just a spoonful of sugar helps the medicine go down.",
+    "movie": "Mary Poppins",
+    "character": "Mary Poppins"
+  },
+  {
+    "quote": "To me, you are perfect.",
+    "movie": "Love Actually",
+    "character": "Mark"
+  },
+  {
+    "quote": "You either die a hero or live long enough to see yourself become the villain.",
+    "movie": "The Dark Knight",
+    "character": "Harvey Dent"
+  },
+  {
+    "quote": "There's no crying in baseball!",
+    "movie": "A League of Their Own",
+    "character": "Jimmy Dugan"
+  },
+  {
+    "quote": "You're gonna need a bigger boat.",
+    "movie": "Jaws",
+    "character": "Chief Brody"
+  },
+  {
+    "quote": "Here's to looking at you, kid.",
+    "movie": "Casablanca",
+    "character": "Rick Blaine"
+  },
+  {
+    "quote": "Bond. James Bond.",
+    "movie": "Dr. No",
+    "character": "James Bond"
+  },
+  {
+    "quote": "Nobody puts Baby in a corner.",
+    "movie": "Dirty Dancing",
+    "character": "Johnny Castle"
+  },
+  {
+    "quote": "You can't stop the change, any more than you can stop the suns from setting.",
+    "movie": "Star Wars: The Phantom Menace",
+    "character": "Shmi Skywalker"
+  },
+  {
+    "quote": "I am Groot.",
+    "movie": "Guardians of the Galaxy",
+    "character": "Groot"
+  },
+  {
+    "quote": "Wakanda forever!",
+    "movie": "Black Panther",
+    "character": "T'Challa"
+  },
+  {
+    "quote": "I love you 3000.",
+    "movie": "Avengers: Endgame",
+    "character": "Tony Stark"
+  },
+  {
+    "quote": "This is the way.",
+    "movie": "The Mandalorian",
+    "character": "Din Djarin"
+  },
+  {
+    "quote": "Freedom is the right of all sentient beings.",
+    "movie": "Transformers",
+    "character": "Optimus Prime"
+  },
+  {
+    "quote": "Great Scott!",
+    "movie": "Back to the Future",
+    "character": "Dr. Emmett Brown"
+  },
+  {
+    "quote": "I wish I knew how to quit you.",
+    "movie": "Brokeback Mountain",
+    "character": "Jack Twist"
+  },
+  {
+    "quote": "A million dollars isn't cool. You know what's cool? A billion dollars.",
+    "movie": "The Social Network",
+    "character": "Sean Parker"
+  },
+  {
+    "quote": "I'm just one stomach flu away from my goal weight.",
+    "movie": "The Devil Wears Prada",
+    "character": "Emily Charlton"
+  },
+  {
+    "quote": "I see dead people.",
+    "movie": "The Sixth Sense",
+    "character": "Cole Sear"
+  },
+  {
+    "quote": "We buy things we don't need with money we don't have to impress people we don't like.",
+    "movie": "Fight Club",
+    "character": "Tyler Durden"
+  },
+  {
+    "quote": "I'm the king of the world!",
+    "movie": "Titanic",
+    "character": "Jack Dawson"
+  },
+  {
+    "quote": "My precious.",
+    "movie": "The Lord of the Rings: The Two Towers",
+    "character": "Gollum"
+  },
+  {
+    "quote": "I am inevitable.",
+    "movie": "Avengers: Endgame",
+    "character": "Thanos"
+  },
+  {
+    "quote": "I'm having a hard time here.",
+    "movie": "The Pursuit of Happyness",
+    "character": "Chris Gardner"
+  },
+  {
+    "quote": "Some people are worth melting for.",
+    "movie": "Frozen",
+    "character": "Olaf"
+  },
+  {
+    "quote": "Adventure is out there!",
+    "movie": "Up",
+    "character": "Ellie"
+  },
+  {
+    "quote": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+    "movie": "Harry Potter and the Prisoner of Azkaban",
+    "character": "Albus Dumbledore"
+  },
+  {
+    "quote": "You're tearing me apart, Lisa!",
+    "movie": "The Room",
+    "character": "Johnny"
+  },
+  {
+    "quote": "I volunteer as tribute!",
+    "movie": "The Hunger Games",
+    "character": "Katniss Everdeen"
+  },
+  {
+    "quote": "That'll do, pig. That'll do.",
+    "movie": "Babe",
+    "character": "Farmer Hoggett"
+  },
+  {
+    "quote": "You have my sword.",
+    "movie": "The Lord of the Rings: The Fellowship of the Ring",
+    "character": "Aragorn"
+  },
+  {
+    "quote": "Sometimes it is the people no one imagines anything of who do the things that no one can imagine.",
+    "movie": "The Imitation Game",
+    "character": "Alan Turing"
+  },
+  {
+    "quote": "Gentlemen, you can't fight in here! This is the War Room!",
+    "movie": "Dr. Strangelove",
+    "character": "President Muffley"
+  },
+  {
+    "quote": "I'm just a girl, standing in front of a boy, asking him to love her.",
+    "movie": "Notting Hill",
+    "character": "Anna Scott"
+  },
+  {
+    "quote": "Love means never having to say you're sorry.",
+    "movie": "Love Story",
+    "character": "Jennifer Cavalleri"
+  },
+  {
+    "quote": "I drink your milkshake!",
+    "movie": "There Will Be Blood",
+    "character": "Daniel Plainview"
+  },
+  {
+    "quote": "There's no place like home.",
+    "movie": "The Wizard of Oz",
+    "character": "Dorothy Gale"
+  },
+  {
+    "quote": "To live would be an awfully big adventure.",
+    "movie": "Hook",
+    "character": "Peter Pan"
+  },
+  {
+    "quote": "You had me at hello.",
+    "movie": "Jerry Maguire",
+    "character": "Dorothy Boyd"
+  },
+  {
+    "quote": "I coulda been a contender.",
+    "movie": "On the Waterfront",
+    "character": "Terry Malloy"
+  },
+  {
+    "quote": "You make me want to be a better man.",
+    "movie": "As Good as It Gets",
+    "character": "Melvin Udall"
+  },
+  {
+    "quote": "We'll always have Paris.",
+    "movie": "Casablanca",
+    "character": "Rick Blaine"
+  },
+  {
+    "quote": "After all, tomorrow is another day.",
+    "movie": "Gone with the Wind",
+    "character": "Scarlett O'Hara"
+  }
+]
